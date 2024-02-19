@@ -27,4 +27,8 @@
     <_ContentIncludedByDefault Remove="Pages\Movies2\Welcome.cshtml" />
   </ItemGroup>
 
+  <ItemGroup>
+    <AdditionalFiles Include="Views\HelloWorld\Index.cshtml" />
+  </ItemGroup>
+
 </Project>
