@@ -2,9 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ASP_Web_App.Models;
 
-public class Movies
-{
-    
+ 
     public class Movie
     {
         public int Id { get; set; }
@@ -15,4 +13,4 @@ public class Movies
         public string? Genre { get; set; }
         public decimal Price { get; set; }
     }
-}
+
