@@ -1,7 +1,6 @@
 using ASP_Web_App.Data;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
-using MvcMovie.Models;
+using ASP_Web_App.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
