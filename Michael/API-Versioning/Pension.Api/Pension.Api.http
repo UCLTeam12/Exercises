@@ -1,0 +1,6 @@
+@Pension.Api_HostAddress = http://localhost:5201
+
+GET {{Pension.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
